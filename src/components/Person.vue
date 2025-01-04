@@ -40,4 +40,7 @@ export default {
   border-radius: 10px;
   padding: 20px;
 }
+  button{
+    margin: 10px;
+  }
 </style>
